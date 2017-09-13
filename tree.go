@@ -1,3 +1,4 @@
+// Package tree provides a data structure of a mutable tree with constant leaves and version counters.
 package tree
 
 import "go/constant"
